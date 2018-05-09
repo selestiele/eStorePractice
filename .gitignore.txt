@@ -1,0 +1,4 @@
+#ignore all mapping and git files
+.git/
+.sass-cache/
+css/style.css.map
